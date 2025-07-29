@@ -1,5 +1,3 @@
-// Tell the user a is greater or b
-
 #include <iostream>
 using namespace std;
 
